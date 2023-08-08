@@ -2,6 +2,8 @@
 
 ![image](https://github.com/NextoneX/Graphics_by_Taichi/blob/main/resource/demo.gif)
 
+<img src="https://github.com/NextoneX/I_wanna/blob/master/resource/demo2.gif"/>
+
 <!--
 **NextoneX/NextoneX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
