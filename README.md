@@ -4,6 +4,9 @@
 
 <img src="https://github.com/NextoneX/I_wanna/blob/master/resource/demo2.gif"/>
 
+![image](https://github.com/NextoneX/ZJU22fall_CG_Project/blob/main/resources/demo.gif)
+
+
 <!--
 **NextoneX/NextoneX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
